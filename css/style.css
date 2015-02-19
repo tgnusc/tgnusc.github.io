@@ -1747,10 +1747,24 @@ margin-top:20px;
 
 .teams .pic{
 margin-bottom:5px;
+position: relative;
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
 }
 
 .teams .pic img{
 border-radius:6px;
+position: relative;
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
 }
 
 .about .details{
